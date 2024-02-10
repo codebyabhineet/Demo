@@ -1,0 +1,10 @@
+Version: 1.0.2
+Date:  01-02-2022
+=========================== 
+Update: Font Family Change
+
+
+Version: 1.0.1
+Date:  27-October-2022
+=========================== 
+Update: From Bootstrap v5.0.0-beta3 to Bootstrap v5.2.2 Update
